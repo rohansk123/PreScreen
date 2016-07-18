@@ -18,15 +18,19 @@ The web application must demonstrably employ the LATEST of these NuGet packages:
 
 * Newtonsoft.Json
 
-Add an ADO.Net Entity Data Model (your choice of Database-first or Code-first) to the web application and expose the LocalDB instance's Database1 user account table to Linq To Entities for your database management needs.
+Add an ADO.Net Entity Data Model (your choice of Database-first or Code-first) to the web application using the LocalDB instance where your database resides.
+This model should expose the Database1 user account table and provide all of the projects database management needs through Linq-To-Entities.
 
 The overall implementation of the solution should minimally ensure the following policies:
 
-Each Id is unqiue.
-Each UserName is unique.
-Each Email is unique.
-Passwords should be stored as one-way MD5 Hash.
+* Each Id is unqiue.
+
+* Each UserName is unique.
+
+* Each Email is unique.
+
+* Passwords should be stored as one-way MD5 Hash.
 
 
-The entire solution must build successfully.
+NOTE - The entire solution must build without error.
 
