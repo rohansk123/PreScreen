@@ -29,8 +29,8 @@ Add an ADO.Net Entity Data Model to the web application
  
 Employing the LocalDB instance where your database resides, this model should expose the Database1 user account table and provide all of the projects database management needs through Linq-To-Entities.
 
-The overall implementation of the solution should minimally ensure the following policies
------------------------------------------------------------------------------------------
+Overall implementation should minimally ensure the following policies
+---------------------------------------------------------------------
 
 * Each Id is unqiue.
 
