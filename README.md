@@ -41,7 +41,7 @@ Overall implementation should minimally ensure the following policies
 * Passwords should be stored as one-way MD5 Hash.
 
 
-NOTE - The entire solution must build without error.
+**NOTE - The entire solution must build without error.**
 
 Working Site
 ------------
