@@ -34,3 +34,5 @@ The overall implementation of the solution should minimally ensure the following
 
 NOTE - The entire solution must build without error.
 
+Finally, in your Pull Request description or comments, supply a url to a working version of your web application (hosted free at AppHarbor or Azure is fine).
+
