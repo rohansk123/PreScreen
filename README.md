@@ -1,4 +1,3 @@
-# PreScreen
 Microsoft Full Stack Applicant Prescreen
 ========================================
 Fork this project and send us a pull request completing the following Visual Studio solution:
