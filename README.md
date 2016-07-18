@@ -10,13 +10,13 @@ Add a web application project to the solution that provides all four aspects of 
 
 The web application must demonstrably employ the LATEST of these NuGet packages:
 
-Entity Framework 6
+* Entity Framework 6
 
-JQuery
+* JQuery
 
-Bootstrap
+* Bootstrap
 
-Newtonsoft.Json
+* Newtonsoft.Json
 
 Using EF6, expose the LocalDB user account table to Linq To Entities for your database management needs.
 
